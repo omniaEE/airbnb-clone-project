@@ -22,3 +22,18 @@ The goal of this project is is to develop a simple booking and management system
 | Property Listing View | Displays a list of available properties based on user search filters.                        | - Search bar and filters (location, price range, amenities).<br>- Property cards with images, price, and ratings.<br>- Pagination or infinite scrolling.                        |
 | Listing Detailed View | Shows comprehensive details about a selected property.                                       | - High-quality images of the property.<br>- Detailed description, amenities, and house rules.<br>- Map integration for location.<br>- Reviews and ratings.<br>- Booking button. |
 | Simple Checkout View  | A streamlined interface for users to confirm their booking and complete the payment process. | - Booking summary (dates, price, and property name).<br>- Payment gateway integration.<br>- User details form (e.g., name, contact).<br>- Confirma                              |
+
+### Color Styles
+
+- Primary Color => #34967C
+- Secondary Color => #161117
+- Secondary Color => #FFA800
+- Shimmer Color
+
+### Typography
+
+- font-family: Quicksand;
+- font-weight: 500;
+- font-size: 23px; |
+
+## Project Roles and Responsibilities
