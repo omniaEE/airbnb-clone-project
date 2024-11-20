@@ -37,3 +37,32 @@ The goal of this project is is to develop a simple booking and management system
 - font-size: 23px; |
 
 ## Project Roles and Responsibilities
+
+## UI Component Patterns
+
+This section outlines the reusable UI components planned for the AirBnB Clone project. These components will be designed to create a consistent and responsive user interface.
+
+- **Navbar**
+  - **Purpose**: The Navbar will provide easy navigation across the application.
+  - **Key Features**:
+    - Logo display.
+    - Search bar for finding properties.
+    - Links to key sections such as "SignIn" and "SignUp"
+    - Responsive design for mobile and desktop screens.
+- **Property Card**
+  - **Purpose**: Display property details in a visually appealing way.
+  - **Key Features**:
+    - Thumbnail image of the property.
+    - Property name, price, location, and rating.
+    - Call-to-action when the user click the card.
+- **Footer**
+  - **Purpose**: Serve as the footer section of the application.
+  - **Key Features**:
+    - Links to important pages (e.g., Help, About, Career).
+    - Social media links.
+    - Contact information.
+- **Hero Section**
+  - **Purpose**: Create a visually captivating section to attract users.
+  - **Key Features**:
+    - A large banner image with a tagline.
+    - Search input for exploring properties.
